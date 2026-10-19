@@ -1,0 +1,13 @@
+fund_id,stock_id,weight,disclosure_complete
+fund-a,000001,0.50,true
+fund-a,000002,0.35,true
+fund-a,000003,0.10,true
+fund-a,000004,0.05,true
+fund-b,000001,0.45,true
+fund-b,000002,0.40,true
+fund-b,000003,0.10,true
+fund-b,000004,0.05,true
+fund-c,000001,0.05,true
+fund-c,000002,0.10,true
+fund-c,000003,0.40,true
+fund-c,000004,0.45,true

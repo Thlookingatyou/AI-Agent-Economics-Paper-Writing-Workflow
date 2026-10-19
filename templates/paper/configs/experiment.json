@@ -1,0 +1,33 @@
+{
+  "question": "UNSET",
+  "purpose": "empirical",
+  "design": {
+    "estimand": "UNSET",
+    "unit": "UNSET",
+    "sample": "UNSET",
+    "specification": "UNSET",
+    "benchmark": "UNSET"
+  },
+  "timing": {
+    "information_set": "UNSET",
+    "training_cutoff": "UNSET",
+    "score_availability": "UNSET",
+    "outcome_window": "UNSET"
+  },
+  "inference": {
+    "method": "UNSET",
+    "independent_variation": "UNSET"
+  },
+  "selection": {
+    "status": "planned",
+    "criterion": "UNSET",
+    "exploratory": false
+  },
+  "seed": 20261018,
+  "parent_run": null,
+  "resume": {
+    "checkpoint": null,
+    "completed_units": [],
+    "procedure": "UNSET"
+  }
+}
